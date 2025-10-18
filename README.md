@@ -1,5 +1,3 @@
-# Del Linux GRUB
-
 diskpart
 
 select disk 0
