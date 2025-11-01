@@ -1,10 +1,10 @@
-# **Windows CMD (Admin):**
+# Windows CMD (Admin):
 
 diskpart
 
-select disk 0
+select disk ***disk***
 
-sel part 1
+sel part ***Windows,EFISystem***
 
 assign letter z:
 
