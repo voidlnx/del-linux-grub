@@ -1,4 +1,4 @@
-# **CMD (Admin):**
+# **Windows CMD (Admin):**
 
 diskpart
 
