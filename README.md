@@ -1,3 +1,5 @@
+# **CMD (Admin):**
+
 diskpart
 
 select disk 0
