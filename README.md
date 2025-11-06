@@ -2,7 +2,11 @@
 
 diskpart
 
+list disk
+
 select disk ***disk***
+
+list part
 
 sel part ***Windows,EFISystem***
 
