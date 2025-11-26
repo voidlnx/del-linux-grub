@@ -1,5 +1,3 @@
-# Windows CMD (Admin):
-
 diskpart
 
 list disk
